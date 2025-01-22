@@ -13,7 +13,7 @@ export default defineConfig({
         sayhello: "sayhello.html",
         style: "style.html",
         score: "score.html",
-        todolist: "todo-list.html",
+        todolist: "todolist.html",
         contact: "contact.html",
         product: "product.html",
         note: "note.html",

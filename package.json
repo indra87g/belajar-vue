@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:vue-dasar": "cd vue-dasar && vite",
+    "dev:vue-router": "cd vue-router && vite",
     "build": "vite build",
     "preview": "vite preview"
   },

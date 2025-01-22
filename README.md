@@ -1,9 +1,9 @@
 # Belajar Vue
 
 Proyek hasil pembelajaran saya melalui 3 E-Book belajar VueJS yang ditulis oleh [Eko Kurniawan Khannedy](https://youtube.com/@ProgrammerZamanNow):
-1. VueJS Dasar
-2. VueJS Router
-3. VueJS Pinia
+1. [VueJS Dasar ✅](https://belajar-vue-dasar.surge.sh)
+2. [VueJS Router](https://belajar-vue-router.surge.sh)
+3. [VueJS Pinia](https://belajar-vue-pinia.surge.sh)
 
 Repositori ini memiliki struktur sebagai berikut:
 - belajar-vue: Root repository
